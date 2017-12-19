@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jophis/flask-react-app/issues"
   },
-  "homepage": "https://github.com/jophis/flask-react-app#readme"
+  "homepage": "https://github.com/jophis/flask-react-app#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
 }
