@@ -1,0 +1,19 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jophis/flask-react-app.git"
+  },
+  "author": "Jophis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jophis/flask-react-app/issues"
+  },
+  "homepage": "https://github.com/jophis/flask-react-app#readme"
+}
